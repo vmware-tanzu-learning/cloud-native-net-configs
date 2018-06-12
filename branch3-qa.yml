@@ -1,2 +1,3 @@
 ---
 batch.size: 500
+loglevel: debug
